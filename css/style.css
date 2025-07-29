@@ -122,6 +122,15 @@ img{
     font-size: 1.8rem;
     color: var(--blanco);
 }
+.contenido-principal{
+    margin-top: 5rem;
+}
+.blog h3{
+    margin-bottom: 2rem;
+}
+.titulo{
+    margin: 2rem;
+}
 @media (min-width:768px){
     .contenido-principal{
         display: grid;
